@@ -1,17 +1,46 @@
-# aulaflutter
+# 🚧 Configuração inicial para desenvolvimento em flutter
 
-A new Flutter project.
+Esse projeto se é a configuração de um ambiente flutter e a demonstração de códigos iniciais para aprendizado
 
-## Getting Started
+------------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+## 🎯 Objetivo
 
-A few resources to get you started if this is your first Flutter project:
+-   Instalar as dependências do flutter
+-   Fazer as configurações iniciais
+-   Rodar o código
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+------------------------------------------------------------------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias Utilizadas
+
+-   **Dart**
+-   Biblioteca padrão `dart:io` para entrada e saída de dados
+
+
+------------------------------------------------------------------------
+
+
+
+## ⚙️ Instalação do Sistema
+
+- Certifique-se de ter o flutter instalado
+
+- Clone o repositório
+
+```bash
+git clone https://github.com/jpktolentino-dot/Atividades-Avaliativas-Mobile/new/dev-eduardo
+```
+
+- Rode o código
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## ⚠️ Observações
+
+-   Os dados são armazenados apenas em memória (lista), ou seja, não há
+    persistência em banco de dados
+
+------------------------------------------------------------------------
