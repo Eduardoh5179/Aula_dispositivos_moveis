@@ -34,13 +34,5 @@ git clone https://github.com/Eduardoh5179/Aula_dispositivos_moveis/
 
 - Rode o código
 
-------------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
-## ⚠️ Observações
-
--   Os dados são armazenados apenas em memória (lista), ou seja, não há
-    persistência em banco de dados
-
-------------------------------------------------------------------------
