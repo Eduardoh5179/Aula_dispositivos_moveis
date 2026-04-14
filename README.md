@@ -29,7 +29,7 @@ Esse projeto se é a configuração de um ambiente flutter e a demonstração de
 - Clone o repositório
 
 ```bash
-git clone https://github.com/jpktolentino-dot/Atividades-Avaliativas-Mobile/new/dev-eduardo
+git clone https://github.com/Eduardoh5179/Aula_dispositivos_moveis/
 ```
 
 - Rode o código
