@@ -1,6 +1,6 @@
 # 🚧 Configuração inicial para desenvolvimento em flutter
 
-Esse projeto se é a configuração de um ambiente flutter e a demonstração de códigos iniciais para aprendizado
+Esse projeto é a configuração de um ambiente flutter e a demonstração de códigos iniciais para aprendizado
 
 ------------------------------------------------------------------------
 
